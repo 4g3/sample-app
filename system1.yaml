@@ -6,3 +6,8 @@ metadata:
   annotations:
     github.com/project-slug: backstage/demo
   namespace: cake
+spec:
+  type: website
+  owner: backstage/maintainers
+  lifecycle: experimental
+  system: cake  
